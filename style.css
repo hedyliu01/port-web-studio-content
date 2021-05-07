@@ -75,3 +75,14 @@ a:active {color: #FFCC00}
     margin-left: 20px;
     font-size: 30px;
 }
+
+.pfour{
+    padding: 1rem;
+    box-sizing: border-box;
+    border: 5px solid lightseagreen;
+    border-radius: 10px;
+    flex-basis: 40%;
+    margin:5px;
+    margin-left: 20px;
+    font-size: 30px;
+}
